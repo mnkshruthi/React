@@ -1,0 +1,46 @@
+.orange {
+  color: orangered;
+}
+.blue {
+  color: aliceblue;
+}
+.largeSize {
+  font-size: xx-large;
+}
+.smallSize {
+  font-size: xx-small;
+}
+.secondary {
+  font-size: 80px;
+  background-color: blanchedalmond;
+}
+.dnager {
+  font-size: 80px;
+  background-color: red;
+}
+.icon {
+  font-size: 80px;
+  background-color: aliceblue;
+}
+.pill {
+  font-size: 80px;
+  background-color: blue;
+}
+.ghost {
+  font-size: 80px;
+  color: white;
+  background-color: black;
+}
+.deafult {
+  font-size: pink;
+  background-color: greenyellow;
+}
+.primary {
+  font-size: 20px;
+  background-color: blueviolet;
+}
+.tertiary {
+  font-size: 100px;
+  background-color: darkorange;
+  color: whitesmoke;
+}
